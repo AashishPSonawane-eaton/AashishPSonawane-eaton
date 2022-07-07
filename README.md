@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AashishPSonawane-eaton
 - 👀 I’m interested in embedded linux, IoT, firmware projects
 - 🌱 I’m currently learning yocto, edgex-foundry
-- 💞️ I’m looking to collaborate on IoT projects
+- 💞️ I’m looking to collaborate on embedded linux projects
 - 📫 reach me on ashsonawane047@gmail.com 
 
 <!---
